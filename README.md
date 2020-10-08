@@ -13,6 +13,10 @@ Despleigue en AZURE APP FUNCTION
 
 GET usado FIREBASE  lOCAL [en este enlace a FIREBASE ](https://taskplanner-lab7.azurewebsites.net/api/list-tasks?code=Lr3XRuO7kjViioiQbWstQPux2ECSJEdQvVCZEePaiMycczSZG5e5Cg==)
 [![Azure](https://aka.ms/deploytoazurebutton)](https://taskplanner-lab7.azurewebsites.net/api/list-tasks?code=Lr3XRuO7kjViioiQbWstQPux2ECSJEdQvVCZEePaiMycczSZG5e5Cg==)
+
+
+enlace al back [ en este enlace](https://github.com/danielGomez1703/taskplanner-api)
+
 # Nuevo Script
 	`npm run buildeploy`
 
